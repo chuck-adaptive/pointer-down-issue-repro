@@ -1,8 +1,5 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+body {
+  overflow: hidden;
 }
 
 .logo {
@@ -41,11 +38,20 @@
   color: #888;
 }
 
-.repro-div {
+.repro-div-down {
   background-color: black;
   color: rgb(115, 255, 0);
   height: 100px;
   width: 100px;
+  cursor: grabbing;
+}
+
+.repro-div-up {
+  color: black;
+  background-color: rgb(115, 255, 0);
+  height: 100px;
+  width: 100px;
+  cursor: grab;
 }
 
 .resultthing {
