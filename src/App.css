@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.repro-div {
+  background-color: black;
+  color: rgb(115, 255, 0);
+  height: 100px;
+  width: 100px;
+}
+
+.resultthing {
+  background-color: pink;
+  color: black;
+  height: 100px;
+  width: 100px;
+}

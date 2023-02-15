@@ -1,0 +1,13 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "app-1676471616365-2873",
+        "url": "http://127.0.0.1:5173/",
+        "uuid": "app-1676471616365-2873",
+        "saveWindowState": false,
+        "autoShow": true
+    },
+    "runtime": {
+        "version": "stable"
+    }
+}
